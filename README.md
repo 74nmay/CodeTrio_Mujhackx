@@ -6,7 +6,9 @@ Project Overview
 CodeTrio's Brain Signal Analysis project aims to develop a machine learning model that processes EEG data to distinguish between different states of attention. The system analyzes EEG signals to detect attention levels by extracting frequency bands and time-frequency features, classifying brain states into focused or unfocused using machine learning algorithms like Random Forest.
 
 
+Dataset used
 
+https://www.kaggle.com/datasets/inancigdem/eeg-data-for-mental-attention-state-detection/data
 
 Technology Used
 
