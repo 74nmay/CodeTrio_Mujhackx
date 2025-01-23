@@ -1,5 +1,5 @@
-# CodeTrio_Mujhackx
-Brain Signal Analysis for Attention Identification
+
+# Brain Signal Analysis for Attention Identification
 
 Project Overview
 
